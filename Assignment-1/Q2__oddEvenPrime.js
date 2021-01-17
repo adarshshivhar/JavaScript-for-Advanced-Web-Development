@@ -1,3 +1,6 @@
+/** Write a JavaScript for a loop that will iterate from n times. For each
+iteration, it will check if the current number is odd, even or prime, and
+display a message on the screen */
 let n = 5;
 
 for (let i = 0; i < n; i++) {
