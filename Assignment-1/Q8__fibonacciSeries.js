@@ -1,3 +1,4 @@
+/** Write a javascript function to print the Fibonacci series of n times. */
 let n = 10, n1 = 0, n2 = 1, next;
 
 for(let i=1;i<=n;i++) {
